@@ -52,7 +52,7 @@ The application is built with an offline-first approach. When the internet conne
 
 ## Project Structure
 
-```text
+```
 ManageSmart/
 │
 ├── frontend/
@@ -89,7 +89,7 @@ ManageSmart/
 
 ## Database Design
 
-```text
+```
 Manager
 │
 └── Library
@@ -176,7 +176,7 @@ When the application goes offline:
 
 ### Clone the repository
 
-```bash
+```
 git clone https://github.com/gopal092003/ManageSmart.git
 
 cd ManageSmart
@@ -184,7 +184,7 @@ cd ManageSmart
 
 ### Backend
 
-```bash
+```
 cd backend
 
 npm install
@@ -194,7 +194,7 @@ npm run dev
 
 ### Frontend
 
-```bash
+```
 cd frontend
 
 npm install
